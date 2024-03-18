@@ -1,4 +1,4 @@
-____________________![MasterHead](https://media.istockphoto.com/id/1422276740/vector/software-developer-flat-design.jpg?s=612x612&w=0&k=20&c=vGEFCF4PAEwI76j9OUp3SAZewM-y2J2UXweEN-1nb4E=)
+_____________________![MasterHead](https://media.istockphoto.com/id/1422276740/vector/software-developer-flat-design.jpg?s=612x612&w=0&k=20&c=vGEFCF4PAEwI76j9OUp3SAZewM-y2J2UXweEN-1nb4E=)
 ![](https://komarev.com/ghpvc/?username=tekinmuhammed&color=blue)
 <h1 align="center">Hi 👋, I'm Muhammed Tekin</h1>
 <h3 align="center">I am a computer engineering student eager to reinforce my theoretical knowledge through practical work experiences as part of my undergraduate education. I am enthusiastic about working, highly motivated in my professional life.</h3>
