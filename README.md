@@ -9,7 +9,7 @@ ___________________![MasterHead](https://media.istockphoto.com/id/1422276740/vec
 
 - 📝 I regularly write articles on [https://medium.com/@tekinmuhammed](https://medium.com/@tekinmuhammed)
 
-- 💬 Ask me about **Python** - **.Net**
+- 💬 Ask me about **.Net** - **Python**
 
 - 📫 How to reach me **fetih.tekin.7@gmail.com**
 
