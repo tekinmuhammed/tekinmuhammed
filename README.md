@@ -1,7 +1,7 @@
 ___________________![MasterHead](https://media.istockphoto.com/id/1422276740/vector/software-developer-flat-design.jpg?s=612x612&w=0&k=20&c=vGEFCF4PAEwI76j9OUp3SAZewM-y2J2UXweEN-1nb4E=)
 ![](https://komarev.com/ghpvc/?username=tekinmuhammed&color=blue)
 <h1 align="center">Hi 👋, I'm Muhammed Tekin</h1>
-<h3 align="center">I am a computer engineering student eager to reinforce my theoretical knowledge through practical work experiences as part of my undergraduate education. I am enthusiastic about working, highly motivated in my professional life.</h3>
+<h3 align="center"> I specialize in AI, machine learning, deep learning, object detection, image processing and software development. My practical experience in developing efficient systems and optimizing workflows reflects my ability to translate complex theories into real-world solutions. </h3>
 
 - 🔭 I’m currently working on **Machine Learning**
 
@@ -9,7 +9,7 @@ ___________________![MasterHead](https://media.istockphoto.com/id/1422276740/vec
 
 - 📝 I regularly write articles on [https://medium.com/@tekinmuhammed](https://medium.com/@tekinmuhammed)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python** **.Net**
 
 - 📫 How to reach me **fetih.tekin.7@gmail.com**
 
