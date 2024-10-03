@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=tekinmuhammed&color=blue)
-<h1 align="center">Hi 👋, I'm Muhammed Tekin</h1>
+![](https://komarev.com/ghpvc/?username=tekinmuhammed&color=blue) <h1 align="center">Hi 👋, I'm Muhammed Tekin</h1>
 <h3 align="center"> I specialize in AI, machine learning, deep learning, object detection, image processing and software development. My practical experience in developing efficient systems and optimizing workflows reflects my ability to translate complex theories into real-world solutions. </h3>
 
 - 🔭 I’m currently working on **Machine Learning**
